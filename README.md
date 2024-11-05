@@ -1,1 +1,4 @@
-A complete project example with RAGChat & Next.js 14
+A site that let's you chat with any other website.
+
+How to Use:
+
